@@ -676,7 +676,7 @@
     
     .col-auto {
         flex: 0 0 auto;
-        width: 36rem;
+        width: 40rem;
     }
     
     .content-map {
@@ -948,6 +948,10 @@
     .navbar-nav {
         cursor: pointer;
     }
+    
+    .navbar-light .navbar-nav .nav-link {
+        font-size: 0.8rem;
+    }
     /* 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
@@ -995,14 +999,14 @@
     
     .text-banner-black {
         color: #000;
-        font-size: 3.5rem;
+        font-size: 2.5rem;
         font-weight: 600;
         text-transform: uppercase;
     }
     
     .text-title-black {
         color: #000;
-        font-size: 2rem;
+        font-size: 1.6rem;
         font-weight: 600;
     }
     
@@ -1024,6 +1028,10 @@
         padding-left: 15px;
         margin-right: auto;
         margin-left: auto;
+    }
+    
+    .text_detail_section_2 {
+        font-size: 2rem;
     }
     /* @media screen and (min-width: 1360px) and (max-width: 1439px) {
     .plan:hover::after {
@@ -1092,7 +1100,7 @@
     }
 } */
     
-    @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+    @import url('https://fonts.googleapis.com/css2?family=Kanit&family=Prompt&display=swap');
     html,
     body {
         position: relative;
@@ -1337,9 +1345,19 @@
     }
     
     .topic-banner-1 {
-        font-size: 6rem;
+        font-size: 4rem;
         line-height: 5rem;
         font-weight: bold;
+    }
+    
+    .subtext-banner-1 {
+        font-size: 2rem;
+    }
+    
+    .subtext-banner-2 {
+        font-size: 1rem;
+        color: #363333;
+        line-height: 1;
     }
     
     .text-bold {
@@ -1352,16 +1370,6 @@
     
     .text-page-footer:hover {
         color: #DD8819;
-    }
-    
-    .subtext-banner-1 {
-        font-size: 3rem;
-    }
-    
-    .subtext-banner-2 {
-        font-size: 1.5rem;
-        color: #363333;
-        line-height: 1;
     }
     
     .head-text {
@@ -1425,7 +1433,7 @@
     }
     
     .topic-banner-2 {
-        font-size: 6rem;
+        font-size: 4rem;
         line-height: 5rem;
         font-weight: bold;
         color: #363333;
@@ -1458,7 +1466,7 @@
     
     @media only screen and (max-width: 1200px) {
         .topic-banner-1 {
-            font-size: 4rem;
+            font-size: 3rem;
             line-height: 4rem;
             font-weight: bold;
         }
