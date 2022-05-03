@@ -671,7 +671,6 @@
     .card-text {
         color: #000;
         font-size: 1.2rem;
-        font-family: 'ThaiSans Neue';
     }
     
     .col-auto {
@@ -1018,7 +1017,6 @@
     }
     
     .head-text {
-        font-family: 'ThaiSans-Neue-bold';
         line-height: 0.8!important;
     }
     
@@ -1373,7 +1371,6 @@
     }
     
     .head-text {
-        font-family: 'ThaiSans Neue';
         line-height: 1.1!important;
     }
     
@@ -1474,7 +1471,6 @@
             font-size: 2rem;
         }
         .head-text {
-            font-family: 'ThaiSans Neue';
             line-height: 1.1!important;
             font-size: 1.2rem;
         }
