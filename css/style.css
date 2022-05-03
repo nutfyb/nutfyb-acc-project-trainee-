@@ -1125,7 +1125,7 @@
     }
     
     .wrap-effect-1 .item:first-of-type {
-        background-image: url('assets/img/cl-1.jpg');
+        background-image: url('/assets/img/cl-1.jpg');
     }
     
     .wrap-effect-1 .item:first-of-type .btn-map-bg-1 {
@@ -1153,7 +1153,7 @@
     }
     
     .wrap-effect-1 .item:nth-of-type(4) {
-        background-image: url('assets/img/cl-4.jpg');
+        background-image: url('/assets/img/cl-4.jpg');
     }
     
     .wrap-effect-1 .item:nth-of-type(5) .slide_from_left_5 {
