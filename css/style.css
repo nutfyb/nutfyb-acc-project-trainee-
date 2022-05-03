@@ -1125,7 +1125,7 @@
     }
     
     .wrap-effect-1 .item:first-of-type {
-        background-image: url('/assets/img/cl-1.jpg');
+        background-image: url('https://www.acc-th.com/images/about/about-2.jpg');
     }
     
     .wrap-effect-1 .item:first-of-type .btn-map-bg-1 {
@@ -1137,7 +1137,9 @@
     }
     
     .wrap-effect-1 .item:nth-of-type(2) {
-        background-image: url('assets/img/cl-2.jpg');
+        background-image: url('/assets/img/cl-2.jpg');
+        width: 100%;
+        height: 100%;
     }
     
     .wrap-effect-1 .item:nth-of-type(3) .slide_from_left_3 {
@@ -1145,7 +1147,7 @@
     }
     
     .wrap-effect-1 .item:nth-of-type(3) {
-        background-image: url('assets/img/cl-3.jpg');
+        background-image: url('/assets/img/cl-3.jpg');
     }
     
     .wrap-effect-1 .item:nth-of-type(4) .slide_from_left_4 {
@@ -1161,7 +1163,7 @@
     }
     
     .wrap-effect-1 .item:nth-of-type(5) {
-        background-image: url('assets/img/cl-5.jpg');
+        background-image: url('/assets/img/cl-5.jpg');
     }
     
     .wrap-effect-1 .item:nth-of-type(6) .slide_from_left_6 {
@@ -1170,7 +1172,7 @@
     }
     
     .wrap-effect-1 .item:last-of-type {
-        background-image: url('assets/img/cl-6.jpg');
+        background-image: url('/assets/img/cl-6.jpg');
     }
     
     .wrap-effect-2 .item:hover {
